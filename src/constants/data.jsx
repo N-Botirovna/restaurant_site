@@ -55,7 +55,6 @@ const cocktails = [
     tags: 'Gin | Sweet Vermouth | Campari | Orange garnish',
   },
 ];
-
 const awards = [
   {
     imgUrl: images.award02,
