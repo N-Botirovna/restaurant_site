@@ -9,7 +9,7 @@
     flex-direction: column;
 
     background: var(--color-black);
-    padding-top: 0;
+    padding-top: 3rem;
 }
 
 .app__footer-links {
